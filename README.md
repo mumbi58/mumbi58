@@ -1,6 +1,7 @@
 # Mumbi Kariuki
-![Profile Picture](link-to-your-profile-picture.png)
+
 Full Stack Developer | Ruby on Rails Enthusiast | React Frontend Developer
+
 Hi, I'm Mumbi Kariuki! 👋 I recently completed my coding bootcamp at Moringa School, and I'm thrilled to embark on my journey as a full-stack developer. My passion lies in crafting web applications that provide great user experiences. I specialize in Ruby for backend development and love working with React for building interactive frontend interfaces.
 
 ### Technologies & Tools
